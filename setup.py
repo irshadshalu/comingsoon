@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='YourAppName',
+setup(name='HoistMe',
       version='1.0',
-      description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
+      description='HoistMe Coming Soon',
+      author='Akshay Nath .R',
+      author_email='akshaynathr@gmail.com',
       url='http://www.python.org/sigs/distutils-sig/',
-#      install_requires=['Django>=1.3'],
+      install_requires=['Flask,mongoengine,flask-wtf'],
      )
