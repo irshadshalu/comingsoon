@@ -1,0 +1,4 @@
+body{background:url('../images/bg');background-repeat:no-repeat;background-size:100% ;
+ background-color:#000;}
+
+.contain{ background:url('../images/bar.gif'); background-repeat:repeat-x;top:200px; height:100px;}
