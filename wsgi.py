@@ -229,6 +229,7 @@ pre {
 </style>
 </head>
 <body>
+<h1> HELLO</h1>
 <section class='container'>
           <hgroup>
             <h1>Welcome to your Python application on OpenShift</h1>
