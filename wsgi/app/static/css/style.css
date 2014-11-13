@@ -15,7 +15,7 @@ body{background: url('../images/bg') no-repeat center center fixed;
 background-size: cover; background-color:#C2C5B9;   -webkit-background-size: cover; padding:20px;top:2000px;}
 
 
-.name{height:200px; width:300px; position:fixed;left:65%;top:65%;}
+.name{height:200px; width:300px; position:fixed;left:65%;top:65%; background:url('../images/name.png') no-repeat  ;}
 
 
 .email{  position:fixed;top:52%; left:68%;}
