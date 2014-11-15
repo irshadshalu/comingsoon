@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block mail %}
+<div> 
+
+{% for t in y %}
+
+<h3>email id={{ t.email_id }}</h3>
+
+{% endfor %}
+</div>
+{% endblock %}
