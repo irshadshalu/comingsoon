@@ -1,6 +1,7 @@
 from flask import Flask 
 from flask.ext.mongoengine import MongoEngine
 from flask_mail import Mail
+import os
 app=Flask(__name__)
 mail=Mail(app)
 
